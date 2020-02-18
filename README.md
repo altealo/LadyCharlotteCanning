@@ -7,3 +7,6 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Sidney Herbert](https://github.com/altealo/SidneyHerbert/blob/master/README.md)  |[Baly, M.E. &  Matthew,H. C. G. *Florence Nightingale in Oxford Dictionary of National Biography.*](http://mathshistory.st-andrews.ac.uk/DNB/Nightingale.html)|
 | [Richard Milnes](https://github.com/altealo/RichardMilnes/blob/master/README.md)  |[Wemyss, T. *The life, letters, and friendships of Richard Monckton Milnes, first lord Houghton.*](https://archive.org/details/lifelettersandf09reidgoog/page/n36/mode/2up/search/canning)|
 | [Parthenope Nightingale](https://github.com/altealo/ParthenopeNightingale/blob/master/README.md) |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
+| [Queen Victoria](https://github.com/altealo/QueenVictoria/blob/master/README.md)  |[Wikipedia. *Charlotte_Canning,_Countess_Canning.*](https://en.wikipedia.org/wiki/Charlotte_Canning,_Countess_Canning)|
+
+
